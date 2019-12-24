@@ -242,7 +242,7 @@ def banner():
 
 
 
-count_inf = 0
+
 
 
 def infinite(pn, dl, ch, max):
